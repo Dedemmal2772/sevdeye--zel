@@ -1,0 +1,34 @@
+index.html
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ümeyir ❤️ Sevde</title>
+    <style>
+        body {
+            background: linear-gradient(to top, #ffecd2 0%, #fcb69f 100%);
+            color: white;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 3em;
+            color: #fff;
+        }
+        .heart {
+            font-size: 5em;
+        }
+    </style>
+</head>
+<body>
+    <div class="heart">🤍</div>
+    <h1>Ümeyir ❤️ Sevde</h1>
+    <p>Seninle her günüm gün batımı gibi güzel Sevde...<br>
+    Bu sayfa, sana olan sevgimi anlatmak için küçük bir başlangıç 💖</p>
+    <audio controls autoplay loop>
+        <source src="https://www.youtube.com/watch?v=eMrrVwjN7pA" type="audio/mpeg">
+        Tarayıcınız bu sesi desteklemiyor.
+    </audio>
+</body>
+</html>
